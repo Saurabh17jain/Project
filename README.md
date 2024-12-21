@@ -1,6 +1,6 @@
-#Fuel Cell Performance Prediction Using PyCaret
+# Fuel Cell Performance Prediction Using PyCaret
 
-#Project Overview
+# Project Overview
 
 This project focuses on predicting the performance of fuel cells using machine learning models. The workflow includes preprocessing the dataset, selecting the target variable based on a roll number mapping, splitting the dataset into training and testing sets, and comparing multiple regression models using PyCaret.
 
@@ -119,13 +119,13 @@ Run the script to preprocess the data, split the dataset, and compare models.
 
 View the output to determine the best-performing model.
 
-Outputs
+# Outputs
 
 Best regression model based on PyCaret’s comparison.
 
 Metrics like Mean Squared Error (MSE) and R-squared for each model.
 
-Notes
+# Notes
 
 Customize preprocessing steps (e.g., handling missing values) as needed.
 
@@ -133,7 +133,7 @@ Ensure the target column exists in the dataset before running the script.
 
 You can adjust PyCaret setup parameters (e.g., normalization and transformation methods) to optimize performance.
 
-Authors
+# Authors
 
 Developed by [Saurabh kr jain].
 
